@@ -31,7 +31,270 @@
       "en": "default:about.md"
     }
   },
-  "nodes": {},
-  "edges": [],
-  "exported": 0
+  "nodes": {
+    "287f04e4-897b-4281-b839-24728ff77d5b": {
+      "type": "graph",
+      "allocations": {
+        "8cd9015c-55d8-4aab-916f-746020571b3d": {
+          "x": -760,
+          "y": -400
+        },
+        "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64": {
+          "x": -100,
+          "y": -400
+        }
+      },
+      "label": {
+        "en": "Biking"
+      },
+      "media": {
+        "file": {
+          "universal": "https://mariandoerk.de/temp/bikepaths.mov"
+        }
+      },
+      "index": true,
+      "image": "https://mariandoerk.de/temp/biking.jpg"
+    },
+    "8cd9015c-55d8-4aab-916f-746020571b3d": {
+      "type": "graph",
+      "allocations": {
+        "b88c8f81-6b1f-409f-98f6-189ed0ed9512": {
+          "x": 580,
+          "y": -120
+        },
+        "73695f11-7531-41df-a7f7-84617efbc10b": {
+          "x": -300,
+          "y": 40
+        },
+        "5bd0a2eb-f1bb-46cc-a172-822b7a5ab979": {
+          "x": 100,
+          "y": -400
+        },
+        "a48b34a7-2d6d-4ff9-9ecf-d8c53f9ec21a": {
+          "x": 1697.0380954862787,
+          "y": 463.7965343720907
+        },
+        "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64": {
+          "x": 880,
+          "y": 100
+        }
+      },
+      "label": {
+        "en": "Swimming"
+      },
+      "image": "https://mariandoerk.de/temp/swimming.jpg",
+      "media": {
+        "file": {
+          "universal": "https://mariandoerk.de/temp/swimming.mov"
+        }
+      },
+      "marker": [
+        {
+          "time": 1.3781722,
+          "states": {
+            "73695f11-7531-41df-a7f7-84617efbc10b": "highlight"
+          },
+          "bounds": {
+            "x1": -205,
+            "y1": -179,
+            "x2": 111,
+            "y2": 3
+          }
+        },
+        {
+          "time": 4.1038908,
+          "states": {
+            "b88c8f81-6b1f-409f-98f6-189ed0ed9512": "highlight"
+          },
+          "bounds": {
+            "x1": -230,
+            "y1": -247,
+            "x2": 543,
+            "y2": 3
+          }
+        },
+        {
+          "time": 6.7071051,
+          "states": {
+            "5bd0a2eb-f1bb-46cc-a172-822b7a5ab979": "highlight"
+          },
+          "bounds": {
+            "x1": 1080.7063652511752,
+            "y1": -135.54885873009192,
+            "x2": 2140.603088340723,
+            "y2": 838.0214344245608
+          }
+        },
+        {
+          "time": 0,
+          "states": {
+            "73695f11-7531-41df-a7f7-84617efbc10b": "hide",
+            "b88c8f81-6b1f-409f-98f6-189ed0ed9512": "hide",
+            "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64": "hide"
+          },
+          "bounds": {
+            "x1": -1298.0523999010716,
+            "y1": -888.8810830999471,
+            "x2": 1670.7638303359147,
+            "y2": 693.9171952684751
+          }
+        },
+        {
+          "time": 43.6792699,
+          "states": {
+            "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64": "hide"
+          }
+        },
+        {
+          "time": 35.0918883,
+          "states": {
+            "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64": "highlight"
+          }
+        }
+      ]
+    },
+    "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64": {
+      "type": "graph",
+      "allocations": {
+        "73695f11-7531-41df-a7f7-84617efbc10b": {
+          "x": 140,
+          "y": -60
+        },
+        "588cce11-8e31-4966-953d-870f6939c65c": {
+          "x": 620,
+          "y": -80
+        },
+        "8cd9015c-55d8-4aab-916f-746020571b3d": {
+          "x": 880,
+          "y": 120
+        }
+      },
+      "label": {
+        "en": "Commuting",
+        "universal": "Commuting"
+      },
+      "media": {
+        "file": {
+          "universal": "https://mariandoerk.de/temp/commuting.mov"
+        }
+      },
+      "image": "https://mariandoerk.de/temp/commuting.jpg",
+      "marker": [
+        {
+          "time": 0,
+          "states": {
+            "73695f11-7531-41df-a7f7-84617efbc10b": "hide",
+            "b88c8f81-6b1f-409f-98f6-189ed0ed9512": "hide",
+            "8cd9015c-55d8-4aab-916f-746020571b3d": "hide"
+          }
+        },
+        {
+          "time": 2.2707963,
+          "states": {
+            "73695f11-7531-41df-a7f7-84617efbc10b": "default",
+            "b88c8f81-6b1f-409f-98f6-189ed0ed9512": "default"
+          },
+          "bounds": {
+            "x1": 325,
+            "y1": -79,
+            "x2": 325,
+            "y2": -79
+          }
+        },
+        {
+          "time": 43.6792699,
+          "states": {
+            "8cd9015c-55d8-4aab-916f-746020571b3d": "default"
+          }
+        }
+      ]
+    },
+    "b88c8f81-6b1f-409f-98f6-189ed0ed9512": {
+      "type": "entity",
+      "label": {
+        "en": "Bar"
+      }
+    },
+    "73695f11-7531-41df-a7f7-84617efbc10b": {
+      "type": "entity",
+      "label": {
+        "en": "Foo"
+      }
+    },
+    "5bd0a2eb-f1bb-46cc-a172-822b7a5ab979": {
+      "type": "entity",
+      "label": {
+        "en": "🏊"
+      }
+    },
+    "588cce11-8e31-4966-953d-870f6939c65c": {
+      "type": "entity",
+      "label": {
+        "en": "Lorem"
+      }
+    },
+    "a48b34a7-2d6d-4ff9-9ecf-d8c53f9ec21a": {
+      "type": "entity",
+      "label": {
+        "en": "test"
+      }
+    }
+  },
+  "edges": [
+    {
+      "nodes": [
+        "2a7b4de6-2d14-4b5e-b2ca-55b7338fecdd",
+        "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64"
+      ],
+      "arrow": "→",
+      "graph": "287f04e4-897b-4281-b839-24728ff77d5b",
+      "id": "2d271cc7-caff-42a8-9773-3f00f02a6ccf"
+    },
+    {
+      "nodes": [
+        "8cd9015c-55d8-4aab-916f-746020571b3d",
+        "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64"
+      ],
+      "arrow": "→",
+      "graph": "287f04e4-897b-4281-b839-24728ff77d5b",
+      "id": "2d1ebd34-6b14-4ee2-8b22-ce31eb029e7b"
+    },
+    {
+      "nodes": [
+        "4cfbd6ab-e67e-4707-bf99-ed1c2938ee64",
+        "8cd9015c-55d8-4aab-916f-746020571b3d"
+      ],
+      "arrow": "→",
+      "graph": "287f04e4-897b-4281-b839-24728ff77d5b",
+      "id": "13db8ae5-b4aa-4f99-b09b-383035939a50"
+    },
+    {
+      "nodes": [
+        "73695f11-7531-41df-a7f7-84617efbc10b",
+        "b88c8f81-6b1f-409f-98f6-189ed0ed9512"
+      ],
+      "arrow": "→",
+      "graph": "8cd9015c-55d8-4aab-916f-746020571b3d",
+      "id": "0ac8a3fa-d196-42f7-add2-b41ff3fd2de2"
+    },
+    {
+      "nodes": [
+        "b88c8f81-6b1f-409f-98f6-189ed0ed9512",
+        "5bd0a2eb-f1bb-46cc-a172-822b7a5ab979"
+      ],
+      "arrow": "→",
+      "graph": "8cd9015c-55d8-4aab-916f-746020571b3d",
+      "id": "201c20e8-2018-4df8-ad41-a2c649685e99"
+    },
+    {
+      "nodes": [
+        "5bd0a2eb-f1bb-46cc-a172-822b7a5ab979",
+        "73695f11-7531-41df-a7f7-84617efbc10b"
+      ],
+      "arrow": "→",
+      "graph": "8cd9015c-55d8-4aab-916f-746020571b3d",
+      "id": "ab379fb4-29e2-44a2-b71c-d6b1b3541178"
+    }
+  ],
+  "exported": 1733926824553
 }
